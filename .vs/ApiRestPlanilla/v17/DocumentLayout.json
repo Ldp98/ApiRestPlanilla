@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|c:\\users\\diazl\\desktop\\proyecto\\apirestplanilla\\apirestplanilla\\controllers\\empleadosconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|solutionrelative:apirestplanilla\\controllers\\empleadosconstroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|c:\\users\\diazl\\desktop\\proyecto\\apirestplanilla\\apirestplanilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|solutionrelative:apirestplanilla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|c:\\users\\diazl\\desktop\\proyecto\\apirestplanilla\\apirestplanilla\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5A53E1-0182-47C2-B77D-DC59A9D32649}|ApiRestPlanilla\\ApiRestPlanilla.csproj|solutionrelative:apirestplanilla\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "empleado.cs",
+              "DocumentMoniker": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Models\\empleado.cs",
+              "RelativeDocumentMoniker": "ApiRestPlanilla\\Models\\empleado.cs",
+              "ToolTip": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Models\\empleado.cs",
+              "RelativeToolTip": "ApiRestPlanilla\\Models\\empleado.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:08:56.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Program.cs",
+              "RelativeDocumentMoniker": "ApiRestPlanilla\\Program.cs",
+              "ToolTip": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Program.cs",
+              "RelativeToolTip": "ApiRestPlanilla\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:04:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadosConstroller.cs",
+              "DocumentMoniker": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Controllers\\EmpleadosConstroller.cs",
+              "RelativeDocumentMoniker": "ApiRestPlanilla\\Controllers\\EmpleadosConstroller.cs",
+              "ToolTip": "C:\\Users\\diazl\\Desktop\\Proyecto\\ApiRestPlanilla\\ApiRestPlanilla\\Controllers\\EmpleadosConstroller.cs",
+              "RelativeToolTip": "ApiRestPlanilla\\Controllers\\EmpleadosConstroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T17:16:13.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

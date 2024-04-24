@@ -8,7 +8,7 @@ namespace ApiRestPlanilla.Models
 {
     public class empleado
     {
-        
+        [Key]
         public int id { get; set; }
 
         [Required]
@@ -40,6 +40,9 @@ namespace ApiRestPlanilla.Models
 
         [Required]
         public string activo { get; set; }
+
+        public virtual EmpleadoIdentificacion EmpleadoIdentificacion { get; set; }
+        public virtual EmpleadoSalario EmpleadoSalario { get; set; }
 
     }
 }

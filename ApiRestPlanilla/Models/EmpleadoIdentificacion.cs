@@ -2,12 +2,13 @@
 using System;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApiRestPlanilla.Models
 {
     public class EmpleadoIdentificacion
     {
-
+        [Key, ForeignKey("empleado")]
         public int id_empleado { get; set; }
 
         [Required]
@@ -17,7 +18,7 @@ namespace ApiRestPlanilla.Models
         public string nit { get; set; }
 
         [Required]
-        public string afilicacion_igss { get; set; }
+        public string afiliacion_igss { get; set; }
 
         [Required]
         public string afiliacion_irtra { get; set; }
@@ -45,6 +46,8 @@ namespace ApiRestPlanilla.Models
 
         [Required]
         public string email { get; set; }
+
+        public virtual empleado empleado { get; set; }
 
     }
 }

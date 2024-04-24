@@ -63,3 +63,4 @@ C:\Users\diazl\Desktop\Proyecto\ApiRestPlanilla\ApiRestPlanilla\obj\Debug\net6.0
 C:\Users\diazl\Desktop\Proyecto\ApiRestPlanilla\ApiRestPlanilla\obj\Debug\net6.0\ApiRestPlanilla.pdb
 C:\Users\diazl\Desktop\Proyecto\ApiRestPlanilla\ApiRestPlanilla\obj\Debug\net6.0\ApiRestPlanilla.genruntimeconfig.cache
 C:\Users\diazl\Desktop\Proyecto\ApiRestPlanilla\ApiRestPlanilla\obj\Debug\net6.0\ref\ApiRestPlanilla.dll
+C:\Users\diazl\Desktop\Proyecto\ApiRestPlanilla\ApiRestPlanilla\obj\Debug\net6.0\ApiRestPlanilla.sourcelink.json

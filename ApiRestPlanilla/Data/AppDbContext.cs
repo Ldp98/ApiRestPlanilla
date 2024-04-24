@@ -20,13 +20,14 @@ namespace ApiRestPlanilla.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<empleado>()
-                .HasKey(e => e.id);
+                .HasOne(ep => ep.EmpleadoIdentificacion)
+                .WithOne(ei => ei.empleado)
+                .HasForeignKey<EmpleadoIdentificacion>(ei => ei.id_empleado);
 
-            modelBuilder.Entity<EmpleadoIdentificacion>()
-                .HasKey(e => e.id_empleado);
-
-            modelBuilder.Entity<EmpleadoSalario>()
-                .HasKey(e => e.empleado_id);
+            modelBuilder.Entity<empleado>()
+                .HasOne(ep => ep.EmpleadoSalario)
+                .WithOne(es => es.empleado)
+                .HasForeignKey<EmpleadoSalario>(es => es.empleado_id);
         }
 
 

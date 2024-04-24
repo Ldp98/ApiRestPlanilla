@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiRestPlanilla")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b924b8b8ab213ae1efdec95e7f2b4544d2fb27ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiRestPlanilla")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiRestPlanilla")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
